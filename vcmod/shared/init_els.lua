@@ -1,0 +1,3 @@
+
+-----------------------------------------------------
+VC.Versions.vcmod1_els = 1.1302 VCMod1_ELS = VC.Versions.vcmod1_els vcmod1_els = VC.Versions.vcmod1_els  if SERVER then  VC.Include("vcmod/server/con_commands_els.lua")  VC.Include("vcmod/server/lights_els.lua")  VC.Include("vcmod/server/main_els.lua") else  VC.Include("vcmod/client/main_els.lua")  VC.Include("vcmod/client/data_menu_els.lua")  VC.Include("vcmod/client/hud_pdtr_els.lua") end local rs7 = "vc.check_msg_work_ALS_k4" 

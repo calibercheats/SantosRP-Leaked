@@ -1,0 +1,3 @@
+
+-----------------------------------------------------
+local a=CasinoKit.getLanguageObject("fr")a.cantaffordante="Vous ne pouvez pas vous permettre la mise d'entrée."a.callingfor="Suivre pour"a.smallbet="petit pari"a.holdem_check="Check"a.holdem_call="Suivre"a.holdem_bet="Parier"a.holdem_raise="Relancer"a.holdem_fold="Se coucher"a.holdem_allin="Tapis"a.holdem_preFlopBets="Mises du Pre-flop"a.holdem_preFlop="Pre-flop"a.holdem_flopBets="Mises du Flop"a.holdem_flop="Flop"a.holdem_turnBets="Mises du Turn"a.holdem_turn="Turn"a.holdem_riverBets="Mises River"a.holdem_river="River"a.holdem_showdown="Abbatage des cartes"

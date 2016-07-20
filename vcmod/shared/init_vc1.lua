@@ -1,0 +1,3 @@
+
+-----------------------------------------------------
+VC.Versions.vcmod1 = 1.7458 VCMod1 = VC.Versions.vcmod1 vcmod1 = VC.Versions.vcmod1  VC.Include("vcmod/shared/shared_vc1.lua")  if SERVER then  VC.Include("vcmod/server/functions_main.lua")  VC.Include("vcmod/server/health.lua")  VC.Include("vcmod/server/particles.lua")  VC.Include("vcmod/server/con_commands_vc1.lua")  VC.Include("vcmod/server/lights_main.lua")   VC.Include("vcmod/server/main_vc1.lua")  VC.Include("vcmod/server/cardealer.lua") else  VC.Include("vcmod/client/main_vc1.lua")  VC.Include("vcmod/client/data_menu_vc1.lua")  VC.Include("vcmod/client/cardealer.lua") end local rs7 = "vc.check_msg_work_ALS_k4" 

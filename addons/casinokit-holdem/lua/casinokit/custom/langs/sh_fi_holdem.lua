@@ -1,0 +1,3 @@
+
+-----------------------------------------------------
+local a=CasinoKit.getLanguageObject("fi")a.cantaffordante="Sinulla ei ole varaa maksaa alkupanosta liittyäksesi peliin."a.callingfor="panostetaan"a.mainpot="Pääpotti"a.smallbet="pieni panos"a.holdem_check="Check"a.holdem_call="Maksa"a.holdem_bet="Panosta"a.holdem_raise="Korota"a.holdem_fold="Foldaa"a.holdem_allin="All-in"a.holdem_preFlopBets="Pre-flop panokset"a.holdem_preFlop="Pre-flop"a.holdem_flopBets="Flop panokset"a.holdem_flop="Flop"a.holdem_turnBets="Turn panokset"a.holdem_turn="Turn"a.holdem_riverBets="River panokset"a.holdem_river="River"a.holdem_showdown="Korttien näyttö"

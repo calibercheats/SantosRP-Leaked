@@ -1,0 +1,3 @@
+
+-----------------------------------------------------
+local a=CasinoKit.getLanguageObject("en")a.cantaffordante="You cannot afford paying the ante to join the game"a.callingfor="calling for"a.mainpot="Main pot"a.smallbet="small bet"a.holdem_check="Check"a.holdem_call="Call"a.holdem_bet="Bet"a.holdem_raise="Raise"a.holdem_fold="Fold"a.holdem_allin="All-in"a.holdem_preFlopBets="Pre-flop bets"a.holdem_preFlop="Pre-flop"a.holdem_flopBets="Flop bets"a.holdem_flop="Flop"a.holdem_turnBets="Turn bets"a.holdem_turn="Turn"a.holdem_riverBets="River bets"a.holdem_river="River"a.holdem_showdown="Showdown"a.holdem_checkverb="checked"a.holdem_potwin="%s won %d chips with %s"a.holdem_gameover="Game over"
